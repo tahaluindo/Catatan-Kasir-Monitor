@@ -1,0 +1,44 @@
+.position-relative{
+    font-family: "Bakso Sapi";
+}
+.btnKanan{
+    border: none;
+    background-color: white;
+}
+.isi{
+    background-color: white;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    box-shadow: -4px 4px 39px -18px rgba(0,0,0,0.66);
+    border-radius: 50px;
+    margin: auto;
+}
+.modal-title{
+    font-weight: bold;
+    font-size: 15pt;
+}
+img{
+    width: 10vw;
+    margin-left: -3%;
+    margin-top: -2%;
+}
+.namaBukuKas{
+    margin-top: -10%;
+    margin-left: 8%;
+}
+.deskripsiBukuKas {
+    margin-left: 8%;
+}
+.saldo {
+    margin-top: -6%;
+}
+.test{
+    margin-top:-8%;
+}
+.btnKat{
+    text-decoration: none;
+    background-color: transparent;
+    border: none;
+}
